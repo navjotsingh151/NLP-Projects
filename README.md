@@ -2,4 +2,4 @@
 
 **Course Link** : https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/
 
-Content related to NLP
+**Kaggle Link** : https://www.kaggle.com/c/word2vec-nlp-tutorial

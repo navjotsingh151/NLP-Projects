@@ -12,5 +12,5 @@ pip install -r requiremnets.txt
 ```
 4. Run the code file to generate submission file.
 ```
-python code.py
+python code_file.py
 ```
